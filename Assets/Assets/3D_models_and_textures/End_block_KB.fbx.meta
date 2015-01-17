@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: f11b8a9a5548143a3a7015327ba9358a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: End5
+    100002: End6
+    100004: //RootNode
+    100006: End_Door
+    100008: End_Door 1
+    100010: End_Floor
+    100012: End_Floor 1
+    100014: End_out
+    100016: End_snap
+    100018: End_Wall_A
+    100020: End_Wall_A 1
+    100022: End_Wall_B
+    100024: End_Wall_B 1
+    100026: Endl_Ceiling
+    100028: Endl_Ceiling 1
+    100030: Light
+    100032: Light1
+    100034: Three_Way3
+    100036: Three_Way_Ceiling
+    100038: Three_Way_floor
+    100040: Three_Way_Wall
+    400000: End5
+    400002: End6
+    400004: //RootNode
+    400006: End_Door
+    400008: End_Door 1
+    400010: End_Floor
+    400012: End_Floor 1
+    400014: End_out
+    400016: End_snap
+    400018: End_Wall_A
+    400020: End_Wall_A 1
+    400022: End_Wall_B
+    400024: End_Wall_B 1
+    400026: Endl_Ceiling
+    400028: Endl_Ceiling 1
+    400030: Light
+    400032: Light1
+    400034: Three_Way3
+    400036: Three_Way_Ceiling
+    400038: Three_Way_floor
+    400040: Three_Way_Wall
+    2300000: End_Door
+    2300002: End_Door 1
+    2300004: End_Floor
+    2300006: End_Floor 1
+    2300008: End_out
+    2300010: End_snap
+    2300012: End_Wall_A
+    2300014: End_Wall_A 1
+    2300016: End_Wall_B
+    2300018: End_Wall_B 1
+    2300020: Endl_Ceiling
+    2300022: Endl_Ceiling 1
+    2300024: Light
+    2300026: Light1
+    2300028: Three_Way_Ceiling
+    2300030: Three_Way_floor
+    2300032: Three_Way_Wall
+    3300000: End_Door
+    3300002: End_Door 1
+    3300004: End_Floor
+    3300006: End_Floor 1
+    3300008: End_out
+    3300010: End_snap
+    3300012: End_Wall_A
+    3300014: End_Wall_A 1
+    3300016: End_Wall_B
+    3300018: End_Wall_B 1
+    3300020: Endl_Ceiling
+    3300022: Endl_Ceiling 1
+    3300024: Light
+    3300026: Light1
+    3300028: Three_Way_Ceiling
+    3300030: Three_Way_floor
+    3300032: Three_Way_Wall
+    4300000: End_snap
+    4300002: End_out
+    4300004: End_Floor
+    4300006: End_Door
+    4300008: End_Wall_A
+    4300010: End_Wall_B
+    4300012: Endl_Ceiling
+    4300014: End_Floor
+    4300016: End_Door
+    4300018: End_Wall_A
+    4300020: End_Wall_B
+    4300022: Endl_Ceiling
+    4300024: Three_Way_Ceiling
+    4300026: Three_Way_floor
+    4300028: Three_Way_Wall
+    4300030: Light
+    4300032: Light1
+    6400000: End_Door
+    6400002: End_Door 1
+    6400004: End_Floor
+    6400006: End_Floor 1
+    6400008: End_out
+    6400010: End_snap
+    6400012: End_Wall_A
+    6400014: End_Wall_A 1
+    6400016: End_Wall_B
+    6400018: End_Wall_B 1
+    6400020: Endl_Ceiling
+    6400022: Endl_Ceiling 1
+    6400024: Light
+    6400026: Light1
+    6400028: Three_Way_Ceiling
+    6400030: Three_Way_floor
+    6400032: Three_Way_Wall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
